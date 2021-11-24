@@ -117,11 +117,6 @@ if($connection->query($sql)===true){
 }
 */
 
-class Alex{
-    public function Aaa{
-        echo "Alex"
-    }
-}
-
+echo "Hallo";
 
 
