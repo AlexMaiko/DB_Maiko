@@ -99,7 +99,6 @@ if($connection->multi_query($sql)===true){
 }
 
 
-
 // Как получить последний id. Auto Increment. PDO.
 
 /*$servername = "localhost";
@@ -117,6 +116,12 @@ if($connection->query($sql)===true){
     echo 'last id' . $last_id;
 }
 */
+
+class Alex{
+    public function Aaa{
+        echo "Alex"
+    }
+}
 
 
 
